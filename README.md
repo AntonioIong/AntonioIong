@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3 align="center">👋 Olá, sou o Antonio</h3>
 
-<!--
-**AntonioIong/AntonioIong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="www.linkedin.com/in/antonio-iongblod-ab9ba3349">LinkedIn</a> •
+</p>
 
-Here are some ideas to get you started:
+---
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Encantado pela tecnologia, atualmente busco me especializar em desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha meta é sempre buscar aprimorar meus conhecimentos e compatilhar eles para que eu possa contribuir de alguma forma.
+
+Fora da tecnologia gosto de passar um tempo com minha familia, ir para parques
+
+---
+
+- 📫 Entre em contato comigo pelo [email](antonio09fib@gmail.com)  
+- 😄 Pronomes: Ele/Dele  
