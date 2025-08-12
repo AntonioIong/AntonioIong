@@ -13,5 +13,5 @@ Fora da tecnologia gosto de passar um tempo com minha familia, ir para parques
 
 ---
 
-- 📫 Entre em contato comigo pelo [email] (mailto:antonio09fib@gmail.com)  
+- 📫 Entre em contato comigo pelo [email]("mailto:antonio09fib@gmail.com")  
 - 😄 Pronomes: Ele/Dele  
